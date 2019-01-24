@@ -8,7 +8,8 @@ namespace xUnitTestDemo
         [Fact]
         public void Test1()
         {
-
+            int i = 0;
+            Console.Write(i.ToString());
         }
     }
 }
